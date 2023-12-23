@@ -13,7 +13,7 @@ This Python script serves as a simple options calculator, allowing users to calc
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your_username/options-calculator.git
+    git clone https://github.com/yahboyelias/OptionsPMCCcalc.git
     ```
 
 2. Navigate to the project directory:
@@ -23,7 +23,7 @@ This Python script serves as a simple options calculator, allowing users to calc
 
 3. Run the script:
     ```bash
-    python options_calculator.py
+    python OptionsPMCCCalc.py
     ```
 
 4. Follow the prompts and enter the required information to calculate options-related metrics.
