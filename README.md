@@ -1,5 +1,5 @@
 # OptionsPMCCcalc
-
+A "poor man's covered call" is an options strategy where you buy a longer-term call option and sell a shorter-term call option with the same strike price. It aims to replicate the potential gains of a covered call strategy but with reduced upfront costs, enabling participation in stock price increases with less capital.
 
 # Poor Mans Covered Call Calculator
 
