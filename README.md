@@ -1,6 +1,8 @@
 # OptionsPMCCcalc
 A "poor man's covered call" is an options strategy where you buy a longer-term call option and sell a shorter-term call option with the same strike price. It aims to replicate the potential gains of a covered call strategy but with reduced upfront costs, enabling participation in stock price increases with less capital.
 
+This calculator helps evaluate your position's value, break-even point, and potential profitability within a four-week timeframe based on specific mathematical inputs.
+
 # Poor Mans Covered Call Calculator
 
 This Python script serves as a simple options calculator, allowing users to calculate various metrics related to options trading via the terminal/command line interface.
